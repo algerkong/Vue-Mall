@@ -1,0 +1,124 @@
+<template>
+<div>
+  <scroll class="content">
+    <ul>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+      <li>niahiaf</li>
+    </ul>
+  </scroll>
+</div>
+</template>
+
+<script>
+  import Scroll from "@/components/common/scroll/Scroll";
+  export default {
+    name: "Profile",
+    components: {Scroll}
+  }
+</script>
+
+<style scoped>
+.content{
+  height: 500px;
+  overflow: hidden;
+  background-color: #666666;
+}
+</style>
