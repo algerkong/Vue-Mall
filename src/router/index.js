@@ -61,7 +61,7 @@ const routes = [
 // 2. 创建路由对象
 const router = new VueRouter({
   routes,
-  mode: 'history'
+  mode: 'hash'
 });
 
 export default router;
